@@ -1,95 +1,87 @@
 {
   "basics": {
-    "name": "José Coelho",
+    "name": "Abhinav Chamallamudi",
     "label": "DevOps Engineer",
-    "picture": "images/jcoelho.webp",
-    "x_pictureFallback": "images/jcoelho.jpg",
+    "picture": "images/download.png",
+    "x_pictureFallback": "images/download.png",
     "x_title": "Hey There! Glad you're here",
-    "summary": "Going on 4 years of experience in IT. Currently I’m working as a developer exploring the DevOps world. I’m interested in service management, all sorts of automation and developing front-end and back-end applications.",
+    "summary": "Going on 3 years of experience in IT. Currently I’m working as a DevOps Engineer exploring the Cloud world. I’m interested in Infrastructure management, Continuous Integration/Delivery for particularly microservice based applications ",
     "location": {
-      "country": "Hungary",
-      "countryCode": "HU",
-      "region": "Budapest"
+      "country": "United States",
+      "countryCode": "US",
+      "region": "Texas"
     },
     "profiles": [
       {
         "network": "DEV Community",
-        "username": "jcoelho",
-        "url": "https://dev.to/jcoelho",
+        "username": "abhinavchamallamudi",
+        "url": "https://dev.to/abhinavchamallamudi",
         "x_icon":"fab fa-2x fa-dev"
       },
       {
         "network": "LinkedIn",
-        "username": "josecoelho93",
-        "url": "https://www.linkedin.com/in/josecoelho93",
+        "username": "abhinav-ch623",
+        "url": "linkedin.com/in/abhinav-ch623",
         "x_icon": "fab fa-2x fa-linkedin"
       },
       {
         "network": "GitHub",
-        "username": "jcoelho93",
-        "url": "https://github.com/jcoelho93",
+        "username": "Abhinavchamallamudi",
+        "url": "https://github.com/Abhinavchamallamudi",
         "x_icon": "fab fa-2x fa-github"
       }
     ]
   },
   "work": [
     {
-      "company": "Bosch",
-      "position": "DevOps Engineer for automated driving",
-      "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
+      "company": "NexteraEnergy",
+      "position": "Cloud Devops Engineer",
+      "startDate": "2020-05-02",
       "endDate": "",
-      "summary": "Joined the Athena project, a Bosch & Daimler effort to bring a level 4 autonomous car to the streets.",
+      "summary": "Joined the NextBI project, a Florida Power and Light effort to Create a downtime analytic tool for all the power divisions within the Organization mainly focussed in Creating and managing Cloud Infrastructure on AWS and Supporting Springboot/Angular Web applications.",
       "highlights": []
     },
     {
-      "company": "Asseco PST",
-      "position": "DevOps Engineer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2018-04-01",
-      "endDate": "2019-08-30",
-      "summary": "Joined Asseco PST DevOps team to help them deliver happiness to their customers",
+      "company": "Visa",
+      "position": "Build and Release Devops Engineer",
+      "startDate": "2019-07-01",
+      "endDate": "2020-04-30",
+      "summary": "Primarily Implemented CI/CD and Infrastructure managment for Microservices within the Developer Platform, consisted about  12 microservices a combination of Springboot,nodeJS,Angular and Go applications",
       "highlights": []
     },
     {
-      "company": "Asseco PST",
-      "position": "Backend Developer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2017-08-16",
+      "company": "Northern Illinois University",
+      "position": "Junior Web Developer",
+      "startDate": "2018-02-08",
       "endDate": "",
-      "summary": "Started my first professional developer experience as a Backend Developer for Asseco PST",
-      "highlights": []
-    },
-    {
-      "company": "European GNSS Agency",
-      "position": "IT Support Technician",
-      "website": "https://www.gsa.europea.eu",
-      "startDate": "2016-05-01",
-      "endDate": "",
-      "summary": "Moved to Prague, Czech Republic to intern for the European Commission helping them build one of the biggest european projects, Galileo Satellite System",
-      "highlights": []
-    },
-    {
-      "company": "Empresa de Electricidade da Madeira",
-      "position": "IT Support Technician",
-      "website": "https://www.eem.pt",
-      "startDate": "2015-03-01",
-      "endDate": "",
-      "summary": "My first real work experience. Interning as an IT Support Technician I was able to learn and explore way more than the workings of a big IT Infrastructure. I got to work with PowerShell scripting, PHP and email marketing.",
+      "summary": "Assisted with CRM migration, Installed git, and other necessary components for Migration from .NET framework to Springboot 2.0",
       "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Madeira",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2011-09-15",
-      "endDate": "2019-06-07",
+      "institution": "Northern Illinois University",
+      "area": "Computer Science",
+      "studyType": "Masters",
+      "startDate": "2017-08-15",
+      "endDate": "2019-05-12",
       "courses": [
-        "Object Oriented Programming",
+        "Big Data Analysis",
         "Database Management Systems",
         "Operating systems and computers architectures",
+        "Release Engineering"
+      ]
+    },
+    {
+      "institution": "GITAM University",
+      "area": "Electronics and Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2013-08-15",
+      "endDate": "2017-04-07",
+      "courses": [
+        "Object Oriented Programming",
+        "Electronic Designs",
+        "Computer Architecture",
         "Requirements Engineering"
       ]
     }
@@ -172,7 +164,7 @@
       "fluency": "Fluent speaker"
     },
     {
-      "language": "Portuguese",
+      "language": "Telugu",
       "fluency": "Native speaker"
     }
   ],
@@ -180,10 +172,6 @@
     {
       "name": "Travel bug",
       "x_icon": "fa-globe-africa"
-    },
-    {
-      "name": "Dog lover",
-      "x_icon": "fa-dog"
     },
     {
       "name": "Foodie",
